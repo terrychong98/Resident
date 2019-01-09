@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">H.O.U.S.E</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="user_id">User ID</string>
+    <string name="log_out">Log out</string>
+    <string name="notice">Notice</string>
+    <string name="capacity">Choose a capacity</string>
+    <string name="approval_status">Approval Status</string>
+    <string name="sticker_period">Sticker Period :</string>
+    <string name="color">Color :</string>
+    <string name="model">Model :</string>
+    <string name="plate_no">Plate No. :</string>
+    <string name="vehicle_type">Vehicle Type :</string>
+    <string name="car">Car</string>
+    <string name="motorcycle">Motorcycle</string>
+    <string name="_1_year">1 Year</string>
+    <string name="_2_year">2 Year</string>
+    <string name="_3_year">3 Year</string>
+    <string name="total_amount_rm">Total Amount (RM) :</string>
+    <string name="submit">Submit</string>
+    <string name="vehicle_register">Vehicle Register</string>
+    <string name="emergency">emergency</string>
+    <string name="wallet">wallet</string>
+    <string name="support">Support</string>
+    <string name="billing">Billing</string>
+    <string name="balance_rm">Balance : RM</string>
+    <string name="name">Name :</string>
+    <string name="ic">IC :</string>
+    <string name="house_address">House Address :</string>
+    <string name="phone_number">Phone Number :</string>
+    <string name="email_address">Email Address :</string>
+    <string name="log_out_2">Log Out</string>
+    <string name="select_a_value_to_reload">Select a value to reload :</string>
+    <string name="or_enter_a_value">or enter a value</string>
+    <string name="reload">Reload</string>
+    <string name="period">Period :</string>
+    <string name="vehicle_plate">Vehicle Plate :</string>
+    <string name="status">Status :</string>
+    <string name="action">Action :</string>
+    <string name="date">Date :</string>
+    <string name="guest">Guest</string>
+    <string name="event">Event</string>
+    <string name="event_name">Event Name:</string>
+    <string name="hosted_by">Hosted By:</string>
+    <string name="contact_no">Contact No:</string>
+    <string name="capacity2">Capacity:</string>
+    <string name="generate_pin">Generate PIN</string>
+    <string name="send">Send</string>
+    <string name="feedback">Feedback</string>
+    <string name="guest_name">Guest Name</string>
+    <string name="number_plate">Number Plate</string>
+    <string name="generate_otp">Generate OTP</string>
+    <string name="guest_ic">Guest IC</string>
+
+    <string-array name="amount">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>60</item>
+        <item>70</item>
+        <item>80</item>
+        <item>90</item>
+        <item>100</item>
+    </string-array>
+</resources>
